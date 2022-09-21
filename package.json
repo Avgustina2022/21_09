@@ -1,0 +1,14 @@
+{
+  "name": "hw_21_09",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "irina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
